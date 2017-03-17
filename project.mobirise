@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "paintings.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 40,
     "versionPublish": "3.12.1",
@@ -492,7 +492,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kermis-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15005.jpg",
                 "caption": "Type caption here",
                 "active": false
               },

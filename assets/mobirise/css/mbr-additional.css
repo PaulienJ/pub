@@ -815,6 +815,14 @@ h6,
 #header2-s .mbr-section-title SPAN {
   font-size: 46px;
 }
+#form1-13 .form-control-label {
+  color: #232323;
+}
+#form1-13 .mbr-section-title {
+  text-align: center;
+  font-size: 46px;
+  color: #000000;
+}
 
 #menu-u .hide-buttons .nav-btn {
   display: none !important;

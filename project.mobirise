@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Atelier.html",
+    "currentPage": "contact.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1",
     "name": "My Site",
     "theme": {
@@ -23,7 +23,11 @@
         "isScrollToTopButton": true,
         "isRtl": false
       }
-    }
+    },
+    "favicon": "",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -484,7 +488,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kermis-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15007.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1873,8 +1877,70 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Paulien Jans</span>",
-          "text": "Art student living in Belgium<br>paulien.jans@hotmail.com",
+          "text": "Art student living in Belgium<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-13",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT",
+          "subtitle": "",
+          "form": {
+            "action": "r0624624@student.luca-arts.be",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "46px",
+              "color": "#000000"
+            }
+          }
         }
       ]
     },

@@ -93,7 +93,7 @@
             },
             ".mbr-section-lead P": {
               "text-align": "left",
-              "font-size": "24px"
+              "font-size": "25px"
             }
           },
           "_anchor": "header1-1",
@@ -492,7 +492,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kermis-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x150013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x150015.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1082,7 +1082,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1092,7 +1092,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1102,7 +1102,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1112,7 +1112,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1122,7 +1122,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1132,7 +1132,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1142,7 +1142,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1152,7 +1152,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1162,7 +1162,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1172,7 +1172,7 @@
                 "active": false
               },
               {
-                "tags": "nachtlandschap",
+                "tags": "night landscape",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1182,7 +1182,7 @@
                 "active": false
               },
               {
-                "tags": "steeg",
+                "tags": "alley",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1192,7 +1192,7 @@
                 "active": false
               },
               {
-                "tags": "steeg",
+                "tags": "alley",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1202,7 +1202,7 @@
                 "active": false
               },
               {
-                "tags": "steeg",
+                "tags": "alley",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1212,17 +1212,17 @@
                 "active": false
               },
               {
-                "tags": "begin",
+                "tags": "beginning",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-plant2-1-2000x2107-800x842.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3-plant2-1-2000x2107.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "begin",
+                "tags": "beginning",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1232,14 +1232,14 @@
                 "active": false
               },
               {
-                "tags": "begin",
+                "tags": "beginning",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-uitzicht-raam-2000x2097-800x838.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-uitzicht-raam-2000x2097.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,

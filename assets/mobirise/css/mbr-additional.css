@@ -437,6 +437,10 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 72px;
 }
+#header1-1 .mbr-section-lead P {
+  text-align: left;
+  font-size: 24px;
+}
 
 
 #menu-d .hide-buttons .nav-btn {

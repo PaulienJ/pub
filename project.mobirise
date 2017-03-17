@@ -90,15 +90,19 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "72px"
+            },
+            ".mbr-section-lead P": {
+              "text-align": "left",
+              "font-size": "24px"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -107,13 +111,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">PAULIEN</span><span style=\"font-size: 60px; line-height: 1.1;\">&nbsp;</span><span style=\"font-weight: normal;\">JANS</span><br>",
-          "text": "<p><b style=\"font-size: 1.5rem; line-height: 1.5;\"><br></b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page4paintings.html\">Paintings</a></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5drawings.html\">Drawings</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page2collage.html\">Collage</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1photography.html\">Photography</a></span><span style=\"text-align: start; font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1.html\">&nbsp;</a></span><br><a href=\"Atelier.html\">Atelier</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5contact.html\">Contact</a></span><br><br><br></p>",
+          "text": "<p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page4paintings.html\" class=\"text-primary\"><br></a></span></p><br><p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"paintings.html\">Paintings</a></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5drawings.html\" class=\"text-primary\">Drawings</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page2collage.html\" class=\"text-primary\">Collage</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1photography.html\" class=\"text-primary\">Photography</a></span><span style=\"text-align: start; font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1.html\">&nbsp;</a></span><br><a href=\"Atelier.html\">Atelier</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5contact.html\" class=\"text-primary\">Contact</a></span><br><br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         }
       ]
@@ -488,7 +492,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kermis-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15001.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1885,6 +1889,16 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "46px",
+              "color": "#000000"
+            }
+          },
           "_anchor": "form1-13",
           "_params": {
             "labelsColor": "#232323",
@@ -1930,17 +1944,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "46px",
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     },
@@ -2101,6 +2105,12 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "header2-11",
           "_params": {
             "imageSize": "59",
@@ -2146,13 +2156,7 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "Schildersoeken kopen met de klas.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "14px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",

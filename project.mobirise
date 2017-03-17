@@ -117,7 +117,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">PAULIEN</span><span style=\"font-size: 60px; line-height: 1.1;\">&nbsp;</span><span style=\"font-weight: normal;\">JANS</span><br>",
-          "text": "<p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page4paintings.html\" class=\"text-primary\"><br></a></span></p><br><p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"paintings.html\">Paintings</a></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5drawings.html\" class=\"text-primary\">Drawings</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page2collage.html\" class=\"text-primary\">Collage</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1photography.html\" class=\"text-primary\">Photography</a></span><span style=\"text-align: start; font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1.html\">&nbsp;</a></span><br><a href=\"Atelier.html\">Atelier</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5contact.html\" class=\"text-primary\">Contact</a></span><br><br><br></p>",
+          "text": "<p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page4paintings.html\" class=\"text-primary\"><br></a></span></p><br><p><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"paintings.html\" class=\"text-primary\">Paintings</a></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5drawings.html\" class=\"text-primary\">Drawings</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page2collage.html\" class=\"text-primary\">Collage</a></span><b style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</b><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1photography.html\" class=\"text-primary\">Photography</a></span><span style=\"text-align: start; font-size: 1.5rem; line-height: 1.5;\"><a href=\"page1.html\">&nbsp;</a></span><br><a href=\"Atelier.html\" class=\"text-primary\">Atelier</a><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><a href=\"page5contact.html\" class=\"text-primary\">Contact</a></span><br><br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         }
       ]
@@ -492,7 +492,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kermis-2-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15005.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kermis-2-2000x15006.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
